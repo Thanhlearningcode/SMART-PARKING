@@ -1,0 +1,5 @@
+
+Tính toán thiết kế bãi đỗ xe thông minh cho khu F Trường ĐH Bách khoa - ĐHĐN 
+Thiết kế mạch: Altium, Proteus cho mạch điều khiển và mạch nguồn
+Thiết kế điện-điển tử: tính toán, chọn lựa thiết bị điều khiển, cảm biến, cơ cấu chấp hành
+Lập trình: Sử dụng PIC16 điều khiển các thiết bị và Visual Studio để tạo giao diện bằng ngôn ngữ C# cho người dùng sử dụng
