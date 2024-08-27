@@ -1,4 +1,4 @@
-#SmartParking 
+# SMART_Parking
 Table of Contents
 Preface
 Chapter I: Introduction
