@@ -2,13 +2,16 @@
 
 ## Giới thiệu
 
-Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ thống thông minh để quản lý bãi đỗ xe, sử dụng công nghệ cảm biến và vi điều khiển để cung cấp thông tin thời gian thực về tình trạng chỗ đỗ xe. Dự án này bao gồm thiết kế phần cứng, phát triển phần mềm và tích hợp các thành phần khác nhau để xây dựng một giải pháp hiệu quả cho việc quản lý đỗ xe.
+Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ thống thông minh để quản lý bãi đỗ xe, sử dụng công nghệ cảm biến, RFID, và vi điều khiển để cung cấp thông tin thời gian thực về tình trạng chỗ đỗ xe. Dự án này bao gồm thiết kế phần cứng, phát triển phần mềm và tích hợp các thành phần khác nhau để xây dựng một giải pháp hiệu quả cho việc quản lý đỗ xe.
 
 ## Mục tiêu
 
-- Phát triển một hệ thống quản lý bãi đỗ xe sử dụng cảm biến vân tay.
+- Phát triển một hệ thống quản lý bãi đỗ xe sử dụng RFID.
 - Thiết kế và triển khai phần cứng và phần mềm cho hệ thống.
 - Tinh chỉnh và kiểm tra các tính năng của hệ thống để đảm bảo hiệu suất tối ưu.
+- Tích hợp giao tiếp UART để truyền dữ liệu giữa các thành phần hệ thống.
+- Điều khiển servo để điều chỉnh cơ chế khóa mở của các chỗ đỗ xe.
+- Phát triển một ứng dụng C# để quản lý và xử lý dữ liệu quét thẻ RFID.
 
 ## Cấu trúc Dự Án
 
@@ -16,6 +19,10 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 - **Chapter II: Hardware Design**: Thiết kế phần cứng bao gồm các sơ đồ mạch và phân phối nguồn điện.
 - **Chapter III: CSS Software**: Phần mềm CSS, bao gồm hướng dẫn sử dụng và mã nguồn.
 - **Chapter IV: Visual Studio**: Phần mềm Visual Studio, bao gồm hướng dẫn sử dụng và giao diện hiển thị.
+- **Chapter V: UART Communication**: Hướng dẫn thiết lập và sử dụng giao tiếp UART trong hệ thống.
+- **Chapter VI: Servo Control**: Hướng dẫn điều khiển servo để điều chỉnh cơ chế khóa mở của các chỗ đỗ xe.
+- **Chapter VII: RFID Integration**: Hướng dẫn tích hợp RFID vào hệ thống để quản lý quét thẻ.
+- **Chapter VIII: C# Application**: Phát triển ứng dụng C# để xử lý dữ liệu từ hệ thống quét thẻ RFID.
 
 ## Hướng dẫn Cài đặt
 
@@ -32,6 +39,10 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 3. **Xây dựng và Tải lên**
 
     Thực hiện các bước để xây dựng và tải mã nguồn lên vi điều khiển của bạn.
+
+4. **Cài đặt Ứng Dụng C#**
+
+    Tải ứng dụng C# từ kho lưu trữ và cấu hình để kết nối với hệ thống RFID.
 
 ## Học Cùng Nhau
 
