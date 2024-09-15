@@ -19,7 +19,7 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 - **Chapter II: Hardware Design**: Thiết kế phần cứng bao gồm các sơ đồ mạch và phân phối nguồn điện.
 - **Chapter III: CSS Software**: Phần mềm CSS, bao gồm hướng dẫn sử dụng và mã nguồn.
 - **Chapter IV: Visual Studio**: Phần mềm Visual Studio, bao gồm hướng dẫn sử dụng và giao diện hiển thị.
-- **Chapter V: UART Communication**: Hướng dẫn thiết lập và sử dụng giao tiếp UART trong hệ thống.
+- **Chapter V: UART Communication**: Hướng dẫn thiết lập và sử dụng giao tiếp UART với RS232 trong hệ thống.
 - **Chapter VI: Servo Control**: Hướng dẫn điều khiển servo để điều chỉnh cơ chế khóa mở của các chỗ đỗ xe.
 - **Chapter VII: RFID Integration**: Hướng dẫn tích hợp RFID vào hệ thống để quản lý quét thẻ.
 - **Chapter VIII: C# Application**: Phát triển ứng dụng C# để xử lý dữ liệu từ hệ thống quét thẻ RFID.
