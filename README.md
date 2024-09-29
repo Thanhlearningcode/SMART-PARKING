@@ -11,7 +11,7 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 - Tinh chỉnh và kiểm tra các tính năng của hệ thống để đảm bảo hiệu suất tối ưu.
 - Tích hợp giao tiếp UART để truyền dữ liệu giữa các thành phần hệ thống.
 - Điều khiển servo để điều chỉnh cơ chế khóa mở của các chỗ đỗ xe.
-- Phát triển một ứng dụng C# để quản lý và xử lý dữ liệu quét thẻ RFID.
+- Phát triển một ứng dụng C# Winform để quản lý và xử lý dữ liệu quét thẻ RFID.
 
 ## Cấu trúc Dự Án
 
