@@ -42,6 +42,9 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 
 4. **Cài đặt Ứng Dụng C#**
 
+  **Flow chart **
+![Uploading image.png…]()
+
     Tải ứng dụng C# từ kho lưu trữ và cấu hình để kết nối với hệ thống RFID.
    Form đăng nhập :
    ![image](https://github.com/user-attachments/assets/f7953901-426f-4879-9f86-21f868b52c57)
