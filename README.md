@@ -40,7 +40,15 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 
     Thực hiện các bước để xây dựng và tải mã nguồn lên vi điều khiển của bạn.
 
-4. **Cài đặt Ứng Dụng C#**
+4. **Cài đặt Ứng Dụng #**
+SCHEMATICS :
+
+![image](https://github.com/user-attachments/assets/a6eb8d38-75f3-42b3-b812-7c2fd6e4ecfc)
+![image](https://github.com/user-attachments/assets/b5db8190-3527-462e-b052-fda560350b41)
+	Power circuit
+![image](https://github.com/user-attachments/assets/741cf0af-756a-4877-81c5-32d10279da58)
+	Control circuit
+![image](https://github.com/user-attachments/assets/1d8a0685-f880-4767-8213-3dac1db82531)
 
   **Flow chart **
 ![Uploading image.png…]()
