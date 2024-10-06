@@ -43,6 +43,9 @@ Chào mừng bạn đến với dự án SMART_Parking! Đây là một hệ th�
 4. **Cài đặt Ứng Dụng C#**
 
     Tải ứng dụng C# từ kho lưu trữ và cấu hình để kết nối với hệ thống RFID.
+   Form đăng nhập :
+   ![image](https://github.com/user-attachments/assets/f7953901-426f-4879-9f86-21f868b52c57)
+
    Form đăng kí sinh viên :
    ![image](https://github.com/user-attachments/assets/44dc8063-7ea3-4a70-8ffa-9a08c38ded28)
 
@@ -52,6 +55,9 @@ CỔNG MỞ VÀ ĐÓNG TỰ ĐỘNG
 Check-out xe ra
 ![image](https://github.com/user-attachments/assets/bb9ae53a-07be-4091-983f-5c1bb401818f)
 Kiểm tra biển số và mở cổng 
+
+Mở rộng : 
+![image](https://github.com/user-attachments/assets/c606e9c3-ed9d-41a5-a162-ffe7778031c6)
 
 ## Học Cùng Nhau
 
