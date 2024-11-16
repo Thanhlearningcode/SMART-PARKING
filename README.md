@@ -67,8 +67,14 @@ Check-out xe ra
 ![image](https://github.com/user-attachments/assets/bb9ae53a-07be-4091-983f-5c1bb401818f)
 Kiểm tra biển số và mở cổng 
 
+
 Mô hình :
-![Uploading image.png…]()
+
+
+
+![image](https://github.com/user-attachments/assets/14efe49b-447f-4f76-87a3-ff42b083d8da)
+
+
 
 Mở rộng : 
 ![image](https://github.com/user-attachments/assets/c606e9c3-ed9d-41a5-a162-ffe7778031c6)
