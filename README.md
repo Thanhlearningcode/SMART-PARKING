@@ -51,7 +51,8 @@ SCHEMATICS :
 ![image](https://github.com/user-attachments/assets/1d8a0685-f880-4767-8213-3dac1db82531)
 
   **Flow chart **
-![image](https://github.com/user-attachments/assets/0dcc3e2b-4070-493f-b010-8e426b659925)
+![image](https://github.com/user-attachments/assets/ebbfd4e0-1d0d-4f85-84f6-107db99fa663)
+
 
     Tải ứng dụng C# từ kho lưu trữ và cấu hình để kết nối với hệ thống RFID.
    Form đăng nhập :
@@ -70,6 +71,7 @@ Kiểm tra biển số và mở cổng
 
 Mô hình :
 
+![image](https://github.com/user-attachments/assets/ac5d55bf-f7ae-4ba4-a47f-b8f9a7bf878c)
 
 
 ![image](https://github.com/user-attachments/assets/14efe49b-447f-4f76-87a3-ff42b083d8da)
