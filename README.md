@@ -51,7 +51,7 @@ SCHEMATICS :
 ![image](https://github.com/user-attachments/assets/1d8a0685-f880-4767-8213-3dac1db82531)
 
   **Flow chart **
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0dcc3e2b-4070-493f-b010-8e426b659925)
 
     Tải ứng dụng C# từ kho lưu trữ và cấu hình để kết nối với hệ thống RFID.
    Form đăng nhập :
@@ -66,6 +66,9 @@ CỔNG MỞ VÀ ĐÓNG TỰ ĐỘNG
 Check-out xe ra
 ![image](https://github.com/user-attachments/assets/bb9ae53a-07be-4091-983f-5c1bb401818f)
 Kiểm tra biển số và mở cổng 
+
+Mô hình :
+![Uploading image.png…]()
 
 Mở rộng : 
 ![image](https://github.com/user-attachments/assets/c606e9c3-ed9d-41a5-a162-ffe7778031c6)
